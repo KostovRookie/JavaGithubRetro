@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JavaGithubTest</string>
+    <string name="github_string">This is supposed to show number of GitHub Users/Topics</string>
+</resources>
